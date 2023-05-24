@@ -1,6 +1,6 @@
 # Default Prediction for Loan_Data
 
-<img src="https://github.com/Leangonplu/ML-Projects-Industries/blob/main/ML-cover.png" alt="ML-cover" style="display: block; margin: 0 auto;">
+<img src="https://github.com/Leangonplu/Default_Prediction_for_Loan_Data/blob/main/assets/images.jpg)">
 
 # Business problem:
 
