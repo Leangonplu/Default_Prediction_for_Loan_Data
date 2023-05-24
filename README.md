@@ -1,4 +1,6 @@
-# Default_Prediction_for_Loan_Data
+# Default Prediction for Loan_Data
+
+<img src="https://github.com/Leangonplu/ML-Projects-Industries/blob/main/ML-cover.png" alt="ML-cover" style="display: block; margin: 0 auto;">
 
 # Business problem:
 
@@ -7,3 +9,4 @@ Banks face significant losses when customers default on their loans, which in tu
 The objective is to identify the models that present the best ACCURACY, in other words, to search for the best metric performance that measures the proportion of correct predictions in general, that is, the proportion of cases classified correctly (true positives and true negatives) in relation to with all cases.
 
 Finally, as a reminder and as we will observe in this paper, it should be noted that accuracy is a general performance metric for the model that evaluates global precision, but to maximize true positives and minimize false negatives, it is necessary to consider other metrics. such as sensitivity and specificity. Choosing the right metric depends on the goal and context of the classification problem.
+
