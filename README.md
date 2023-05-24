@@ -1,4 +1,4 @@
-# Default Prediction for Loan_Data
+# Default Prediction for Loan Data
 
 <img src="https://github.com/Leangonplu/Default_Prediction_for_Loan_Data/blob/main/assets/images.jpg" alt="ML-cover" style="display: block; margin: 0 auto;">
 
